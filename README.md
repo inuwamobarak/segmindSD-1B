@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the SSD-1B Demo repository! This space accompanies the blog article discussing the Segmind Stable Diffusion Model (SSD-1B). Explore this demo to see the model in action and better understand the concepts covered in the article.
+This space accompanies the blog article discussing the Segmind Stable Diffusion Model (SSD-1B) with Analytics Vidhya. Explore this demo to see the model in action and better understand the concepts covered in the article.
 
 ## Demo Highlights
 
@@ -12,9 +12,9 @@ Welcome to the SSD-1B Demo repository! This space accompanies the blog article d
 
 ## Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/your-username/SSD-1B-Demo.git`
+1. **Clone the repository:** `git clone https://github.com/inuwamobarak/segmindSD-1B.git`
 2. **Installation:** Check the blog article for instructions on setting up dependencies and running the demo.
-3. **Explore Examples:** Dive into the `examples` directory to see SSD-1B in action.
+3. **Explore Examples:** Dive into the notebook to see SSD-1B in action.
 
 ## Learn More
 
